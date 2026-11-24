@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "AliKadri_CI_CD",
@@ -28,7 +29,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "ca993708-15c0-4850-91b7-7fca20af2a81"
+        "projectId": "a34bee6-ea94-4dc4-b85d-c0fa589da614"
       }
     }
   }
